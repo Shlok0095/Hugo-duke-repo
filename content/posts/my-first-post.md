@@ -5,3 +5,4 @@ title = 'Created this with noah-gift help'
 +++
 
 ### learning with duke
+### Duke is great place to learn
